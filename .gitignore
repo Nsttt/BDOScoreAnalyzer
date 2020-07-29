@@ -86,3 +86,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+#Manual Igonores
+/uploads
+tesseract.js-ocr-result.pdf

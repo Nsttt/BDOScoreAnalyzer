@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>BDO Score Analyzer - Transform scores into pastable text</title>
+  <meta name="title" content="BDO Score Analyzer - Transform scores into pastable text">
+  <meta name="description" content="With BDO Score Analyzer you can transform your Nodewar/Siege scores into pastable text to keep track of your members KDA.">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+</head>
+<style>
+body,h1 {font-family: "Raleway", sans-serif}
+body, html {height: 100%}
+.bgimg {
+  background-image: url('/bg.jpg');
+  min-height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+</style>
+<body>
+
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+    BDO Score Analyzer
+  </div>
+  <div class="w3-display-middle">
+    <h1 class="w3-jumbo w3-animate-top">Add your files here</h1>
+    <h3 class="w3-animate-top" style="text-align: center;">File will download seconds after the upload.</h3>
+    <hr class="w3-border-grey" style="margin:auto;width:40%">
+    <p class="w3-large w3-center">
+         <form style="text-align: center;" action="/upload" method="POST" enctype="multipart/form-data">
+            <input type="file" name="avatar" />
+            <button class="h-button" type="submit">Convert</button>
+        </form>
+    </p>
+  </div>
+  <div class="w3-display-bottomleft w3-padding-large">
+    Give me a <a href="http://github.com/nsttt" target="_blank">tip</a>.
+  </div>
+</div>
+
+</body>
+</html>

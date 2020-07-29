@@ -18,12 +18,11 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage: storage }).single("avatar");
 
-app.set("view engine", "ejs");
 app.use(express.static("public"))
 //Routes
 
 app.get("/", (req, res) => {
-  res.render("index");
+  res.sendFile(__dirname + '/public/home.html');
 });
 
 app.post("/upload", (req, res) => {
