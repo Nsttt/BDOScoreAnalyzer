@@ -5,7 +5,7 @@
 <p align="center"><a href="http://scores.nstlopez.com">Check it out !</a></p>
 <div align="center">
 
-[![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=flat-square)](https://github.com/nsttt/my-portfolio/compare/) [![Issues](https://img.shields.io/github/issues/nsttt/my-portfolio?style=flat-square)](https://github.com/Nsttt/my-portfolio/issues) [![License](https://img.shields.io/github/license/nsttt/my-portfolio?style=flat-square)](https://github.com/Nsttt/my-portfolio/blob/master/LICENSE.txt)
+[![Contributions](https://img.shields.io/badge/contributions-welcome-blue?style=flat-square)](https://github.com/nsttt/BDOScoreAnalyzer/compare/) [![Issues](https://img.shields.io/github/issues/nsttt/BDOScoreAnalyzer?style=flat-square)](https://github.com/Nsttt/BDOScoreAnalyzer/issues) [![License](https://img.shields.io/github/license/nsttt/BDOScoreAnalyzer?style=flat-square)](https://github.com/Nsttt/BDOScoreAnalyzer/blob/master/LICENSE.txt)
 
 </div>
 <p align="center">
